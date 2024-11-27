@@ -1,0 +1,71 @@
+html
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="leaf.png">
+    <title>Sulawesi's Beauty</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h2 class="logo">Reza</h2>
+        <nav class="navigation">
+            <a href="#" class="active">Home</a>
+            <a href="#">About</a>
+            <a href="#">Service</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <section class="parallax">
+        <img src="hill1.png" id="hill1">
+        <img src="hill2.png" id="hill2">
+        <img src="hill3.png" id="hill3">
+        <img src="hill4.png" id="hill4">
+        <img src="hill5.png" id="hill5">
+        <img src="tree.png" id="tree">
+        <h2 id="text">Sulawesi Island</h2>
+        <img src="leaf.png" id="leaf">
+        <img src="plant.png" id="plant">
+    </section>
+
+    <section class="sec">
+        <h2>About Sulawesi</h2>
+        <p>
+            Pulau Sulawesi, yang terletak di Indonesia, merupakan salah satu pulau terindah di nusantara dengan
+            keindahan alam yang memukau. Bentuk geografisnya yang unik, menyerupai huruf K, memberikan variasi yang luar
+            biasa pada lanskapnya, dari pantai berpasir putih hingga pegunungan hijau yang menjulang. Taman Nasional
+            Bunaken di utara pulau dikenal sebagai salah satu lokasi penyelaman terbaik di dunia, dengan terumbu karang
+            yang kaya akan kehidupan laut berwarna-warni. Keindahan bawah laut ini menjadikan Sulawesi tujuan utama bagi
+            para penyelam dan pecinta alam. <br><br>
+            Di bagian tengah pulau, dataran tinggi Toraja terkenal dengan tradisi dan budaya yang kaya. Masyarakat
+            Toraja memiliki kebiasaan unik dalam upacara pemakaman yang megah dan penuh makna, di mana mereka merayakan
+            kehidupan orang yang telah meninggal dengan ritual yang mencerminkan kekayaan budaya mereka. Arsitektur
+            rumah adat Tongkonan yang khas, dengan atap melengkungnya, menjadi simbol identitas dan warisan budaya
+            Toraja. Para wisatawan dapat menjelajahi desa-desa tradisional yang indah dan merasakan keramahan penduduk
+            lokal yang kaya akan tradisi.<br><br>
+            Sulawesi juga terkenal dengan keanekaragaman hayatinya yang luar biasa. Hutan-hutan tropis yang lebat
+            menjadi habitat bagi berbagai spesies flora dan fauna endemik, seperti anoa dan babi rusa, yang tidak
+            ditemukan di tempat lain di dunia. Banyak kawasan lindung di pulau ini, seperti Taman Nasional Lore Lindu,
+            menjadi tempat penelitian dan konservasi untuk menjaga keberlanjutan ekosistem yang berharga. Dengan
+            trekking di pegunungan dan eksplorasi gua, pengunjung dapat menyaksikan keindahan alam Sulawesi yang masih
+            perawan.<br><br>
+            Bagi para pencinta kuliner, Sulawesi menawarkan ragam makanan yang menggugah selera, dengan cita rasa yang
+            khas dan beragam. Masakan seperti Coto Makassar dan Pallubasa menjadi favorit bagi banyak pengunjung,
+            mencerminkan perpaduan budaya dan rempah-rempah lokal. Dengan semua keindahan alam, kekayaan budaya, dan
+            cita rasa kuliner yang ditawarkan, Sulawesi benar-benar merupakan destinasi yang menarik untuk dijelajahi,
+            memberikan pengalaman yang tak terlupakan bagi setiap pengunjung.<br><br>
+        </p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
